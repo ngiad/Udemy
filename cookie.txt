@@ -1,20 +1,7 @@
 [
     {
-        "domain": ".udemy.com",
-        "expirationDate": 1705601675,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "ab.storage.userId.5cefca91-d218-4b04-8bdd-c8876ec1908d",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "%7B%22g%22%3A%22220450932%22%2C%22c%22%3A1673767362761%2C%22l%22%3A1674044735021%7D"
-    },
-    {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.794106,
+        "expirationDate": 1674829735.837131,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_language",
@@ -27,7 +14,7 @@
     },
     {
         "domain": ".udemy.com",
-        "expirationDate": 1674288208.507782,
+        "expirationDate": 1674745022.846686,
         "hostOnly": false,
         "httpOnly": true,
         "name": "__cf_bm",
@@ -36,11 +23,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "EPKU4nkZxy1unhJfw_A3a21j_OGlACqBZZscoVfnUDI-1674286408-0-AbxlmaEatQdw9MJAEkkpYSNiLAf404TqIBdZZejOElPmc2SO+AulH0Es9Cnby2UJn+//RyZZUH9fJ2wWQ5xy4VRf0HvmA1eEEffrQwiZNM+X0nhXTtQKHYr5rYMTV0e5lrU5rIVwnG1WVLnA+PJbEgfyjhNCgdBoJN+mSY4Fh00ZP/LGc9cEd0WsN9Qyw6yJ+A=="
+        "value": "ZsT1bnZaBWrpmL6.TYw1jSQQWscXYBJFK17M0H33hpg-1674743222-0-ASYiQAUix37OxfWk2Ju2yZBQJ66hsCoGG5aRLIbpYh4DRa9wa4Xs/nKOqxvf+goWIjdGKid5PAOmPHgZPslEQ/zEmdusybOfpFECdKRdiv9mxYcQY62QK30BHwjhtePS6ugjUCMdnKt7wgnczdsUnihxIfpdk35b2c/YrCk7TU+hP34e2yUVluvB/hCEiG1SNw=="
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.794085,
+        "expirationDate": 1674829735.83689,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_version",
@@ -53,7 +40,7 @@
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1705822422.935153,
+        "expirationDate": 1706279292.327487,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_credit_last_seen",
@@ -62,11 +49,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "\"2023-01-18 14:05:39.354505+00:00\""
+        "value": "None"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1705736023.67482,
+        "expirationDate": 1706192914.6099,
         "hostOnly": true,
         "httpOnly": false,
         "name": "csrftoken",
@@ -75,7 +62,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "Gsq2x95mABTFPhbcwTqylCIoZDOwmYkQjZtM9NsjLPu4uJt6112u1hYa1iAv23al"
+        "value": "L7NKtx2CFyJkEbDRaEhQVMVPFkFAusjZIZAvfa9C1KVn6U88v3cYdL9PR27mT36g"
     },
     {
         "domain": "www.udemy.com",
@@ -87,11 +74,11 @@
         "secure": false,
         "session": true,
         "storeId": null,
-        "value": "HgwGtriFsRJc1SNwJGuH8OyU9DV8jDYR8PhHfeEyFdgI3vIWfrLXNjc0Em5AQqH3KMsiNcvzHRufr4O5ib2enQ==:nWck65swIOwZZ7J8q5GvoN7/oesIJ328A/AQdnfUZ9B1SqIFqaWMfGcXFFiYcvloKOlsvT72VJh7lXwXWBGPBmd2bC8Fl1nDExHCGCtrXN4="
+        "value": "FiTD1YR-rTHzBepFE8ljMzjl6wOCf130zhBY3zSxkxxSm8aFk11PAhpzklBmzG3bLlun6LxBE1A7noHuDGWc1w==:EpiZVUKwgFdjheFi8us6Zj4UH-W2GDrpOA72wS8KAOVstY1atzN7CGGVXiNT614zkXK4I9eFh4T46odrpM00x4-TCI/TIWeVTB5Q6iC/4IE="
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.793818,
+        "expirationDate": 1674829735.835831,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_marketplace_country",
@@ -100,11 +87,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "GB"
+        "value": "ID"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674288246.662715,
+        "expirationDate": 1674745140.107655,
         "hostOnly": true,
         "httpOnly": false,
         "name": "seen",
@@ -116,34 +103,8 @@
         "value": "1"
     },
     {
-        "domain": ".udemy.com",
-        "expirationDate": 1705601675,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "ab.storage.sessionId.5cefca91-d218-4b04-8bdd-c8876ec1908d",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "%7B%22g%22%3A%22c598469a-a714-4527-b4b7-d7ac9da33f1c%22%2C%22e%22%3A1674046535017%2C%22c%22%3A1674044735018%2C%22l%22%3A1674044735018%7D"
-    },
-    {
-        "domain": ".udemy.com",
-        "expirationDate": 1705601675,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "ab.storage.deviceId.5cefca91-d218-4b04-8bdd-c8876ec1908d",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "%7B%22g%22%3A%229d83f2ed-6ca1-48f9-a923-eab080b7ce8a%22%2C%22c%22%3A1673767312254%2C%22l%22%3A1674044735020%7D"
-    },
-    {
         "domain": "www.udemy.com",
-        "expirationDate": 1705303328.255935,
+        "expirationDate": 1706279222.97439,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_firstvisit",
@@ -152,11 +113,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "2023-01-15T07:22:07.174365+00:00:1pGxLD:5wS36mzSzBtirtHKWf22Go4ABaY"
+        "value": "2023-01-26T14:27:02.333438+00:00:1pL3DS:_ZG8fUQ38SCKA414LoWM3YCRYAY"
     },
     {
         "domain": ".www.udemy.com",
-        "expirationDate": 1708846430.446376,
+        "expirationDate": 1709303328.041541,
         "hostOnly": false,
         "httpOnly": false,
         "name": "G_ENABLED_IDPS",
@@ -169,7 +130,7 @@
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.793707,
+        "expirationDate": 1674829735.835531,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_brand",
@@ -178,11 +139,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "GBen_US"
+        "value": "IDen_US"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.79373,
+        "expirationDate": 1674829610.875529,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_campaign_code",
@@ -191,11 +152,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "REPUBLICSALE23"
+        "value": "FS12523"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.794062,
+        "expirationDate": 1674829735.836592,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_user",
@@ -204,7 +165,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "220450932"
+        "value": "221541446"
     },
     {
         "domain": ".udemy.com",
@@ -216,11 +177,11 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "80fd1ed56165f1cfa3dac9a129b860db8115caf7-1674286403"
+        "value": "6c0455337098e454eda54615bd8c0a08fe030b4a-1674743174"
     },
     {
         "domain": ".udemy.com",
-        "expirationDate": 1705303307.235754,
+        "expirationDate": 1706279175.150847,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__udmy_1_a12z_c24t",
@@ -233,7 +194,7 @@
     },
     {
         "domain": ".udemy.com",
-        "expirationDate": 1705822432.793625,
+        "expirationDate": 1706279335.834594,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__udmy_2_v57r",
@@ -242,11 +203,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "860269d0cf524c8082d76fc36a22b916"
+        "value": "decffe78fdd344abb1faad873ef5d1af"
     },
     {
         "domain": ".udemy.com",
-        "expirationDate": 1674372822.935365,
+        "expirationDate": 1674829692.32776,
         "hostOnly": false,
         "httpOnly": false,
         "name": "__udmy_4_a12z",
@@ -255,11 +216,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "719c7ee76aab6b2b055174144583159bf85df6aa852d847a41b29c1be3385bb4"
+        "value": "617124fce8edfe0a7462140a645eeed147e5ccd9e7895f6ff919e432c3d8d45a"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1676878422.935538,
+        "expirationDate": 1677335292.328002,
         "hostOnly": true,
         "httpOnly": true,
         "name": "access_token",
@@ -268,11 +229,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "ssPSRJenawiCrMmdaWJkvN4K6OzpZe6z8yXumYBb"
+        "value": "AbyVPNenuzBiWaWjZO19Qn0n0WIu1ONjg0CPsfmY"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1676878422.935476,
+        "expirationDate": 1677335292.327916,
         "hostOnly": true,
         "httpOnly": true,
         "name": "client_id",
@@ -285,7 +246,7 @@
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1676878422.935572,
+        "expirationDate": 1677335312.921912,
         "hostOnly": true,
         "httpOnly": true,
         "name": "dj_session_id",
@@ -294,11 +255,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "gqmfnbuk4il2g5mj6ng2ldtukg5osudx"
+        "value": "ekomhtgwswgifno9dez6p64x3i7mgka6"
     },
     {
         "domain": ".udemy.com",
-        "expirationDate": 1674288245,
+        "expirationDate": 1674745136,
         "hostOnly": false,
         "httpOnly": false,
         "name": "eventing_session_id",
@@ -307,11 +268,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "kcjO5L2ES9ex7Rl1fl0GdA-1674288245279"
+        "value": "9N8f_hoySKm2mpDp_GwaSg-1674745136387"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1676878432.793434,
+        "expirationDate": 1677335335.831178,
         "hostOnly": true,
         "httpOnly": false,
         "name": "evi",
@@ -320,11 +281,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "\"3@xvXi5DNqWNSqvvIl9vl8QIkIcZsf_jF623-6TwZtLqwYgpsPIT4HZxCR\""
+        "value": "\"3@Uim8zUI_faaTmObuDJsSdFz63wK46HBHUh4yQhbZjAPtbvRg-A5rw9w2\""
     },
     {
         "domain": ".www.udemy.com",
-        "expirationDate": 1689838424,
+        "expirationDate": 1706279326,
         "hostOnly": false,
         "httpOnly": false,
         "name": "OptanonConsent",
@@ -333,11 +294,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "isGpcEnabled=0&datestamp=Fri+Jan+20+2023+23%3A33%3A44+GMT-0800+(Pacific+Standard+Time)&version=202211.2.0&isIABGlobal=false&hosts=&consentId=f3038118-19a2-4b2f-8b89-3e41ca722b46&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0005%3A1%2CC0002%3A1%2CC0004%3A1&AwaitingReconsent=false"
+        "value": "isGpcEnabled=0&datestamp=Thu+Jan+26+2023+21%3A28%3A46+GMT%2B0700+(Waktu+Indochina)&version=202211.2.0&isIABGlobal=false&hosts=&consentId=8953f0bd-bcc4-4a43-8bfb-8129ad010b76&interactionCount=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0003%3A1%2CC0005%3A1%2CC0004%3A1%2CC0001%3A1%2CC0002%3A1"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.794135,
+        "expirationDate": 1674829735.837358,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_device",
@@ -350,7 +311,7 @@
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.794158,
+        "expirationDate": 1674829735.837605,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_logged_in",
@@ -363,7 +324,7 @@
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.794004,
+        "expirationDate": 1674829735.836114,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_price_country",
@@ -372,11 +333,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "US"
+        "value": "ID"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674372832.794033,
+        "expirationDate": 1674829735.836357,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_cache_release",
@@ -385,11 +346,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "9074e303e941cf9a9e9e"
+        "value": "46c9955a18fef8f71e87"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1674293622.935127,
+        "expirationDate": 1674750492.327446,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_credit_unseen",
@@ -402,20 +363,7 @@
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1708846422.934899,
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "ud_last_auth_information",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "\"{\\\"backend\\\": \\\"udemy-auth\\\"\\054 \\\"suggested_user_email\\\": \\\"borkholdercasciato.xbs.i4.244@gmail.com\\\"\\054 \\\"suggested_user_name\\\": \\\"Learning\\\"\\054 \\\"suggested_user_avatar\\\": \\\"https://img-b.udemycdn.com/user/50x50/anonymous_3.png\\\"}:1pJ8Ni:p3pR7j-5DGSFwlta6YrFS4ZT1qg\""
-    },
-    {
-        "domain": "www.udemy.com",
-        "expirationDate": 1705822432.793655,
+        "expirationDate": 1706279335.835018,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_locale",
@@ -428,7 +376,7 @@
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1708846432.793678,
+        "expirationDate": 1709303335.835254,
         "hostOnly": true,
         "httpOnly": false,
         "name": "ud_rule_vars",
@@ -437,11 +385,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "\"eJxtjcsOgjAUBX-FdKuQ29sH0G8haUof2GhsLIUN4d_FaIwLtydnZjZSTJ588U6vcY4lZdVJQNk7sEEgtx106FoZLJMGceypVDala_REVWQbSIh5Lm9WO1P8cOwDQUBWA62pqKBVSBUXDW-xpfQEoAAGcj5eN3OgJS32oks2IUSr57Rk6_VqcjTj7WNLeTL3aH-g7B-Ln_8Vkb6KjCmBjWCUy29xJ_sTXSFHaA==:1pJ8Ns:X23-LOWTgldXlz3EdY2x97xWIY0\""
+        "value": "eJx9jcsKwjAQRX-lZKstk6Qv8y2FME1malAMpmk3pf9uQQVXbi_3nLOJjGmiTN6uYQ45JuPJMVPXs_e6rnEcJSP6vtPEjZfIxsV4CyRMIbZBcEhzfrPWY6bh2AehQOkSZKnaQtZGtUbqSoOCuj8BGIBBnI_XHQ80x8VdbU7IHJyd45Ic2RVTwPH-scU04SO4HyjRc6H5T7E3DVQtyEurv8Vd7C8qmEms:1pL3FC:3ioxna_3FWTFk0Mhnp7wiBnbWDE"
     },
     {
         "domain": "www.udemy.com",
-        "expirationDate": 1676878422.935001,
+        "expirationDate": 1677335292.327234,
         "hostOnly": true,
         "httpOnly": true,
         "name": "ud_user_jwt",
@@ -450,6 +398,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjIwNDUwOTMyLCJlbWFpbCI6ImJvcmtob2xkZXJjYXNjaWF0by54YnMuaTQuMjQ0QGdtYWlsLmNvbSIsImlzX3N1cGVydXNlciI6ZmFsc2UsImdyb3VwX2lkcyI6W119.3m1xpaPcprjESWiUNjt3Za91SUJoRXKlzAUjXJh5YZE"
+        "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjIxNTQxNDQ2LCJlbWFpbCI6InAzYzF5bGtAc21hcnRuYXRvci5jb20iLCJpc19zdXBlcnVzZXIiOmZhbHNlLCJncm91cF9pZHMiOltdfQ.LPJrTt2LlHczoRv7TsW2nUC1X3R_KkTPPbLQ3Y_CgTw"
     }
 ]
